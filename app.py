@@ -1,1 +1,5 @@
-print('Hello' From the other end')
+
+def greet(name):
+    return f"Hello, {name}!"
+
+print(greet("Imran"))
