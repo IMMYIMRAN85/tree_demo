@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+
+# Virtual envs
+venv/
+.env/
+.venv/
+
+# Editors/IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Thonny
+.thonny/
+venv/
+__pycache__/
