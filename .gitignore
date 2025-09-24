@@ -1,24 +1,16 @@
 # Python
+.venv/
+venv/
 __pycache__/
 *.py[cod]
+*.pyo
+*.pyd
 *.egg-info/
-*.log
-
-# Virtual envs
-venv/
-.env/
-.venv/
-
-# Editors/IDE
-.vscode/
-.idea/
-*.code-workspace
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# Thonny
-.thonny/
-venv/
-__pycache__/
+dist/
+build/
+.env
+.env.*
+.coverage
+.pytest_cache/
+.ipynb_checkpoints/
+.mypy_cache/
